@@ -7,7 +7,6 @@ body {
 
 .banner {
   background: linear-gradient(#023e8a, #48cae4);
-  position: relative;
   width: 100%;
   height: 90vh;
   min-height: 90vh;
@@ -114,4 +113,11 @@ h2 {
   font-size: 2.5rem;
   line-height: 3rem;
   margin-bottom: 0rem;
+}
+
+@media screen and (max-width: 768px) {
+  .banner {
+    display: flex;
+    flex-direction: column;
+  }
 }
