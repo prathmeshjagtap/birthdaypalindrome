@@ -56,7 +56,7 @@ body {
 }
 .datepickerImage {
   max-width: 400px;
-  position: relative;
+  /* position: relative; */
   position: absolute;
   top: 7rem;
   right: 4rem;
@@ -124,7 +124,7 @@ h2 {
     width: fit-content;
     max-width: 250px;
     max-height: 250px;
-    /* position: ; */
+    position: static;
     top: 0rem;
     right: 0rem;
   }
