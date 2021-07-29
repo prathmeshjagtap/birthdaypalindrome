@@ -120,4 +120,7 @@ h2 {
     display: flex;
     flex-direction: column;
   }
+  .datepickerImage {
+    display: none;
+  }
 }
