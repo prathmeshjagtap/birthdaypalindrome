@@ -56,7 +56,6 @@ body {
 }
 .datepickerImage {
   max-width: 400px;
-  /* position: relative; */
   position: absolute;
   top: 7rem;
   right: 4rem;
@@ -137,5 +136,9 @@ h2 {
     margin-bottom: 10px;
     width: 100%;
     text-align: center;
+  }
+  .button {
+    margin: auto;
+    padding: auto;
   }
 }
