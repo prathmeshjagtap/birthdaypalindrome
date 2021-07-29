@@ -127,12 +127,14 @@ h2 {
     position: static;
     top: 0rem;
     right: 0rem;
+    margin: auto;
   }
   .banner h1,
   .banner h3,
   .banner h4 {
     padding: 0;
-    margin: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
     width: 100%;
     text-align: center;
   }
