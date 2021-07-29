@@ -116,7 +116,7 @@ h2 {
 
 @media screen and (max-width: 768px) {
   body {
-    margin: 0rem;
+    margin: 1rem;
   }
   .banner {
     display: flex;
