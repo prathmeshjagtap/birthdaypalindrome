@@ -56,8 +56,8 @@ body {
 }
 .datepickerImage {
   max-width: 400px;
-  /* position: relative;
-  position: absolute; */
+  position: relative;
+  position: absolute;
   top: 7rem;
   right: 4rem;
 }
@@ -122,8 +122,9 @@ h2 {
   }
   .datepickerImage {
     width: fit-content;
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 250px;
+    max-height: 250px;
+    /* position: ; */
     top: 0rem;
     right: 0rem;
   }
@@ -131,7 +132,7 @@ h2 {
   .banner h3,
   .banner h4 {
     padding: 0;
-    margin: 0;
+    margin: 10px;
     width: 100%;
     text-align: center;
   }
