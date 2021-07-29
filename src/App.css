@@ -122,8 +122,10 @@ h2 {
   }
   .datepickerImage {
     width: fit-content;
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 200px;
+    max-height: 200px;
+    top: 0rem;
+    right: 0rem;
   }
   .banner h1,
   .banner h3,
