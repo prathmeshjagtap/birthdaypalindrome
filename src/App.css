@@ -121,7 +121,9 @@ h2 {
     flex-direction: column;
   }
   .datepickerImage {
-    display: none;
+    width: fit-content;
+    max-width: 50px;
+    max-height: 50px;
   }
   .banner h1,
   .banner h3,
@@ -130,6 +132,5 @@ h2 {
     margin: 0;
     width: 100%;
     text-align: center;
-    /* min-height: 500px; */
   }
 }
