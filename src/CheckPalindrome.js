@@ -102,8 +102,8 @@ function CheckPalindrome() {
             if (yearBackward < 1) {
               break;
             }
-            dateBackward = datesInMonth[monthBackward - 1];
           }
+          dateBackward = datesInMonth[monthBackward - 1];
         }
         let yearString = yearBackward.toString();
         let monthString = monthBackward.toString();
