@@ -37,7 +37,7 @@ function Footer() {
               size="2x"
             />
           </a>
-          <a href="https://prathmesh-jagtap.netlify.app/">
+          <a href="https://jagtap-prathmesh.netlify.app/">
             <FontAwesomeIcon className="icon" icon="user-circle" size="2x" />
           </a>
 
